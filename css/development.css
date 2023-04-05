@@ -1,0 +1,34 @@
+.wr-development {
+    background-image: url("../media/development/development_bg.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 160px;
+}
+
+.wr-development-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 277px;
+    padding-top: 80px;
+}
+.wr-development-design{
+
+}
+.wr-development-image{
+
+}
+.wr-development-design h3{
+    font-family: "GeometriaBold", sans-serif;
+    font-size: 45px;
+    line-height: 57px;
+    color: #1E3147;
+    margin-bottom: 30px;
+
+}
+.wr-development-design p{
+    margin-top: 20px;
+    font-family: "GeometriaRegular", sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    color: #1E3147;
+}

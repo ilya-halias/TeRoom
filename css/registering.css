@@ -1,0 +1,96 @@
+.wr-registering{
+    padding-top: 224px;
+    padding-bottom: 72px;
+}
+.wr-registering-title{
+    background: #33A1FB;
+    border-radius: 60px;
+    padding: 71px 74px 64px 74px;
+    position: relative;
+    margin-right: 32px;
+}
+
+.wr-registering-title h3{
+    font-family: 'GeometriaBold', sans-serif;
+    font-size: 40px;
+    text-align: left;
+    color: #ffffff;
+}
+.wr-registering-title p{
+    font-family: "GeometriaRegular", sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 16px;
+}
+.wr-registering-title input{
+    font-family: "GeometriaMedium", sans-serif;
+    font-size: 18px;
+    text-align: left;
+    padding: 18px 12px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background: #F8F9FC;
+    border: none;
+    color: #99A3C5;
+}
+
+.wr-registering-title input::placeholder{
+    font-family: "GeometriaMedium", sans-serif;
+    font-size: 18px;
+    text-align: left;
+    color: #99A3C5;
+}
+.wr-registering-fields{
+    margin-top: 52px;
+}
+.wr-registering-fields button{
+    font-family: "GeometriaBold", sans-serif;
+    background-color: #F9D208;
+    border-radius: 10px;
+    text-align: center;
+    padding: 18px;
+    color: #ffffff;
+    border: none;
+    font-size: 20px;
+    line-height: 24px;
+}
+.wr-registering-room{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -60px;
+}
+.wr-registering-checkbox{
+    margin-top: 29px;
+}
+.wr-registering-checkbox form{
+    color: #ffffff;
+    font-family: "GeometriaRegular", sans-serif;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.wr-registering-checkbox span{
+    color: rgba(254, 209, 1, 1);
+    text-decoration: underline dotted;
+}
+.wr-registering-dashed-circle-big {
+    width: 122px;
+    height: 122px;
+    top: 0;
+    left: 0;
+    transform: translate(-33%, -33%);
+    z-index: -1;
+}
+
+.wr-registering-dashed-circle-small {
+    width: 69px;
+    height: 69px;
+    bottom: 0;
+    right: 0;
+    transform: translate(105%, 20%);
+    z-index: -1;
+
+}

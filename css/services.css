@@ -1,0 +1,89 @@
+
+.services {
+    padding-top: 96px;
+
+}
+.services h2{
+    text-align: center;
+}
+.services-logo{
+    position: relative;
+    height: 628px;
+}
+.using{
+    display: flex;
+    justify-content: center;
+}
+.using__before{
+    padding: 13px 8px 12px 25px;
+    font-family: "GeometriaRegular", sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #33A1FB;
+    border-radius: 47px 0 0 47px;
+}
+.using__after{
+    font-family: "GeometriaRegular", sans-serif;
+    font-size: 20px;
+    color: #788CA1;
+    padding: 12px 13px 12px 24px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    border-radius: 0 47px 47px 0 ;
+}
+.logo-teroom{
+    position: absolute;
+    left: 408px;
+    top: 260px;
+}
+.logo-telegram{
+    position: absolute;
+    left: 1257.02px;
+    top: 276px;
+}
+.logo-autocad{
+    position: absolute;
+    left: 775.23px;
+    top: 196px;
+}
+.logo-3dsmax{
+    position: absolute;
+    left: 1157.2px;
+    top: 110px;
+}
+.logo-cloud{
+    position: absolute;
+    left: 1037.26px;
+    top: 172px;
+}
+.logo-exel{
+    position: absolute;
+    left: 1342.57px;
+    top: 156px;
+}
+.logo-gmail{
+    position: absolute;
+    left: 1396.25px;
+    top: 408px;
+}
+.logo-lr{
+    position: absolute;
+    left: 925.7px;
+    top: 245px;
+}
+.logo-photoshop{
+    position: absolute;
+    left: 1048.16px;
+    top: 282px;
+}
+.logo-watsap{
+    position: absolute;
+    left: 895.5px;
+    top: 130px;
+}
+.logo-m\.word{
+    position: absolute;
+    left: 1434px;
+    top: 250px;
+
+}
